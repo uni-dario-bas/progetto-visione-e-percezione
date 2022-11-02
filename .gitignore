@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints
+
+data
+
+# https://stackoverflow.com/questions/3719243/best-practices-for-adding-gitignore-file-for-python-projects
+__pycache__/
+*.py[cod]
