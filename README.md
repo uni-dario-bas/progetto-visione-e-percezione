@@ -43,6 +43,13 @@ python app/emotion_labeler/main.py
 python app/emoji_detector/main.py
 ```
 
+Nel caso dell'applicazione "Video Emotion Detection" è necessario specificare il path assoluto del video che si vuole analizzare (obbligatorio) e il tipo di modello di MediaPipe da utilizzare (opzionale, il valore di default è 1)
+```shell
+python app/video_emotion_detection/main.py path_assoluto_del_video
+
+# Volendo utilizzare il modello di detection 0
+# python app/video_emotion_detection/main.py path_assoluto_del_video 0
+```
 ## Riferimenti
 **Dataset**  
 <a href="https://www.kaggle.com/datasets/msambare/fer2013" target="_blank">FER-2013</a>  
