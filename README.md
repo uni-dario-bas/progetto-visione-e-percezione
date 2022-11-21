@@ -60,7 +60,7 @@ Karen Simonyan, Andrew Zisserman - VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SC
 IMAGE RECOGNITION
 </a>  
   
-<a href="https://neurohive.io/en/popular-networks/vgg16/" target="_blank">Neurohive - VGG-16 overview</a>  
+<a href="https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c" target="_blank">Towards Data Science - VGG-16 overview</a>  
   
 <a href="https://github.com/jhan15/facial_emotion_recognition" target="_blank">@jhan15 - Facial Emotion Recognition</a>  
   
